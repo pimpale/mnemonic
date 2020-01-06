@@ -5,6 +5,6 @@
 * 5-hive Visualize the fifth item associated with a hive or with bees
 * 6-bricks Visualize the sixth item associated with bricks
 * 7-heaven Visualize the seventh item associated with heaven
-* 8-weight (or height) Visualize the eighth item on a weight (or height) as if you are heavy (or high)
+* 8-weight Visualize the eighth item on a weight
 * 9-wine Visualize a glass containing the ninth item
 * 10-hen Visualize the tenth item associated with a chicken.
